@@ -1,120 +1,49 @@
-<div align="center">
+# Hello, I'm Sithu Nyein 🇲🇲
 
-# 👋 Hi, I’m <strong>Sithu Nyein</strong>  
-### 🚀 Digital Marketer • 🤖 AI Innovator • 💻 Full-Stack Developer  
+**Systems Researcher | AI Infrastructure Engineer | BSCS @ UoPeople**
 
-I build intelligent digital experiences where **creativity meets strategy** and **technology becomes impact.**
-
-🌐 **Portfolio:** https://sithunyein.vercel.app  
-📫 **Email:** sithunyein.mailto@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/sithunyein  
-💻 **GitHub:** https://github.com/stnyein  
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+digital+experiences.;Crafting+products+that+inspire+and+convert.;Turning+ideas+into+impact-driven+solutions." />
-
-</div>
+I am an aspiring Computer Science researcher focused on the **digital divide**. Operating from the Thai-Myanmar border, I build high-performance AI infrastructure designed to make Large Language Models (LLMs) accessible on legacy hardware and low-bandwidth networks.
 
 ---
 
-## 🚀 What I Do
+### 🚀 Featured Research: [Lumina-Dist](https://github.com/stnyein/Lumina-Dist)
+**A Distributed 8-Bit Inference Engine built in Rust.**
+* **Problem:** Modern AI models are inaccessible in rural regions due to hardware (4GB RAM) and network (10Mbps) constraints.
+* **Solution:** A custom parallel quantization kernel reducing memory and transmission payloads by **75%**.
+* **Result:** Achieved **27.24ms** processing latency for 20 million weight parameters.
 
-I combine **data-driven strategy**, **modern engineering**, and **AI innovation** to deliver high-impact digital products.
 
-- 🔍 **Google SEO** — White-hat strategies that boost ranking & authority  
-- ✍️ **Content Strategy** — High-converting storytelling for modern audiences  
-- 🤖 **Generative AI** — Intelligent automation, creativity & efficiency  
-- 📈 **Digital Marketing** — Conversion-focused campaigns that scale brands  
-- 💻 **Web Development** — React, Next.js, Node.js, Python  
-- 🎨 **UI/UX Design** — Human-centered interfaces built for engagement  
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎮 **GrammarGo — The Crazy Classroom Challenge**  
-Offline educational English-learning game with hilarious classroom gameplay.  
-🔗 https://grammargo.vercel.app/
-
----
-
-### 🔐 **ShieldNet VPN — Secure & Private Browsing**  
-Fast, encrypted, one-tap VPN for safe browsing anywhere.  
-🔗 https://shieldnetvpn.vercel.app/
+### 🛠️ Technical Arsenal
+* **Systems:** Rust (Rayon, Tokio, gRPC), C++, Distributed Systems Architecture.
+* **AI Research:** Quantization Theory, Memory-Efficient Inference, Bit-Level Optimization.
+* **Web:** TypeScript, Vercel, Minimalist Design Systems (Apple/Vercel aesthetic).
+* **Education:** BS in Computer Science (UoPeople) | BA in English (Pathein University).
 
 ---
 
-### 🎨 **AdSculpt — AI-Powered Ad Creatives**  
-Build and optimize marketing creatives using real-time Gemini API insights.  
-🔗 https://adsculpt.vercel.app/
+### 📈 The 2029 Roadmap
+I am currently "speed-running" my computer science degree while building a portfolio of public research to prepare for **MSCS/PhD applications** at top-tier labs.
+
+- [x] Achieve <30ms 8-bit quantization benchmark.
+- [ ] Implement NF4 (4-bit) quantization for ultra-low RAM devices.
+- [ ] Develop decentralized "Worker Discovery" via gRPC.
+- [ ] **Target:** University of Oxford / Stanford / Purdue (Fall 2029).
 
 ---
 
-### 🧩 **BrainVerse — Interactive Learning Game**  
-Cognitive challenges and puzzles designed to improve memory & learning.  
-🔗 https://brainversegame.vercel.app/
+### 🧠 Philosophy & Identity
+* **MBTI:** INFP — Driven by social impact and technical mastery.
+* **Aesthetic:** High-tech minimalism. I believe infrastructure should be as clean as the code that runs it.
+* **Experience:** Founder of Ohlarr, Knowsta, and Summa.ai.
 
 ---
 
-### 🌐 **UniLang — The Unified Language**  
-A human-centered programming language unifying UI → backend → AI.  
-🔗 https://unilang.vercel.app/
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithunyein/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stnyein)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sithunyein.mailto@gmail.com)
 
----
-
-### 🤖 **Knowsta – AI Knowledge Assistant**  
-Gemini-powered assistant for creativity, learning, and idea generation.  
-🔗 https://knowsta.vercel.app/
-
----
-
-## 🧠 About Me
-
-I thrive at the intersection of **technology, marketing, and design**.  
-My mission is to build digital systems that are not only functional — but truly **meaningful**.
-
-### My Core Ethics  
-- 🔐 **Data Privacy First**  
-- ⚖️ **Ethical AI & Fairness**  
-- 🤝 **Transparency & Honest Collaboration**  
-
----
-
-## 💼 Tech Stack & Toolkit
-
-<div align="center">
-
-**SEO • Content Strategy • Generative AI • Digital Marketing**  
-**React • Next.js • Node.js • Python • TailwindCSS**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,tailwind,vercel,git,github,vscode&perline=6" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/stnyein)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/sithunyein)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://sithunyein.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail)](mailto:sithunyein.mailto@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ Final Note  
-> <strong>“I build where creativity meets intelligence — and strategy becomes impact.”</strong>
-
-Thanks for visiting!  
-Let’s build something extraordinary. 🚀
-
-</div>
+*"The best way to democratize AI is to optimize the systems that deliver it."*

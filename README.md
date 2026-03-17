@@ -27,4 +27,4 @@ A distributed AI inference engine built from scratch in **Rust**.
 ---
 
 ### 🌐 Connect
-[**sithunyein.com**](https://sithunyein.com) | [**Superteam Profile**](https://superteam.fun/earn) | [**X / Twitter**](https://x.com/hello_sithu)
+[**sithunyein.com**](https://sithunyein.com) | [**Superteam Profile**](https://superteam.fun/earn/t/sithunyein) | [**Linkedin**](https://www.linkedin.com/in/sithunyein)

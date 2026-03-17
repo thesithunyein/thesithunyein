@@ -8,7 +8,7 @@
 * **Distributed Systems:** Engineering solutions for the "Memory Wall" via multi-node tensor sharding.
 * **AI Infrastructure:** Architecting inference engines in Rust for low-latency, decentralized compute.
 
-### 🛠️ Primary Project: [Lumina-Dist](https://github.com/mrstnyein/Lumina-Dist)
+### 🛠️ Primary Project: [Lumina-Dist](https://github.com/stnyein/Lumina-Dist)
 A distributed AI inference engine built from scratch in **Rust**.
 * **Network Layer:** Custom gRPC/Tonic implementation for typed node communication.
 * **Compute Engine:** Multi-threaded matrix multiplication using `rayon` and `ndarray`.

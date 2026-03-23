@@ -1,30 +1,37 @@
 # Sithu Nyein
+**Web3 Infrastructure & AI Engineer**
 
-**Systems Engineer & Product Architect** Building high-performance, bare-metal distributed systems for the next generation of AI.
-
----
-
-### 🚀 Core Focus
-* **Distributed Systems:** Engineering solutions for the "Memory Wall" via multi-node tensor sharding.
-* **AI Infrastructure:** Architecting inference engines in Rust for low-latency, decentralized compute.
-
-### 🛠️ Primary Project: [Lumina-Dist](https://github.com/stnyein/Lumina-Dist)
-A distributed AI inference engine built from scratch in **Rust**.
-* **Network Layer:** Custom gRPC/Tonic implementation for typed node communication.
-* **Compute Engine:** Multi-threaded matrix multiplication using `rayon` and `ndarray`.
-* **Sharding Logic:** Master/Worker architecture to distribute LLM weights across local clusters.
-
-### ⚙️ Technical Stack
-* **Languages:** Rust (Systems), Python (AI/ML), JavaScript (Frontend).
-* **Network & Data:** gRPC, Protocol Buffers, Bincode, PostgreSQL.
-* **Infrastructure:** Vercel, Docker, Cloudflare, Linux.
-
-### 🎓 Academic & Career Vision
-* **Current:** B.S. in Computer Science at the University of the People.
-* **B.A. in English:** Pathein University (Expected Dec 2026).
-* **Goal:** Pursuing a **Ph.D. in Computer Science (Distributed Systems)** for the 2029 academic year at Stanford or Purdue.
+Building high-performance distributed systems, AI-driven execution logic, and secure on-chain programs. My core focus lies at the intersection of off-chain AI automation and Solana DeFi infrastructure.
 
 ---
 
-### 🌐 Connect
-[**sithunyein.com**](https://sithunyein.com) | [**Superteam Profile**](https://superteam.fun/earn/t/sithunyein) | [**Linkedin**](https://www.linkedin.com/in/sithunyein)
+### // Architecture & Deployed Systems
+
+**Equinox AI Vault** | [Solana / Anchor / Python]
+An autonomous, delta-neutral yield strategy built for institutional DeFi.
+* Engineered an Anchor smart contract utilizing Drift Protocol v2 CPIs.
+* Developed an off-chain Python AI Keeper for high-frequency funding rate arbitrage and autonomous risk management.
+* *Deployed on Solana Devnet.*
+
+**Lumina-Dist** | [Rust]
+A distributed AI inference engine.
+* Built entirely in Rust to ensure high-performance execution, low latency, and memory safety across distributed nodes.
+
+---
+
+### // Technical Stack
+
+* **On-Chain & Systems:** Rust, Anchor Framework, Solana Web3.js
+* **Off-Chain & Automation:** Python 3.10+, Solders, Driftpy
+* **Web Architecture:** TypeScript, Next.js, PostgreSQL, Supabase
+
+---
+
+### // Contact & Proof of Work
+
+* **GitHub:** [stnyein](https://github.com/stnyein)
+* **Superteam Earn:** [https://superteam.fun/earn/t/sithunyein]
+* **Email:** sithunyein.mailto@gmail.com
+* **Website:** [sithunyein.com](https://sithunyein.com)
+
+> *Execution is the ultimate moat.*

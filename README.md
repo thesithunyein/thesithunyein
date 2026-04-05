@@ -50,8 +50,7 @@ High-concurrency distributed AI inference engine.
 * **Website:** [sithunyein.com](https://sithunyein.com)
 * **Superteam Earn:** [superteam.fun/earn/t/sithunyein](https://superteam.fun/earn/t/sithunyein)
 * **Email:** sithunyein.mailto@gmail.com
-* **GitHub:** [github.com/stnyein](https://github.com/stnyein)
-* **X:** [x.com/stnyein](https://x.com/stnyein)
+* **X:** [x.com/hello_sithu](https://x.com/hello_sithu)
 
 ---
 

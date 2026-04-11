@@ -2,7 +2,7 @@
 
 Web3 infrastructure and AI engineer. 
 
-I build systems where off-chain intelligence meets on-chain execution — mostly around distributed compute, autonomous agents, and DeFi infrastructure.
+I build systems where off-chain intelligence meets on-chain execution — mostly around distributed compute, autonomous agents, and DeFi infrastructure. 
 
 Execution is the only thing that matters. 
 

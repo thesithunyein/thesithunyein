@@ -10,7 +10,7 @@ Execution is the only thing that matters.
 
 ## What I do 
 
-- Design and ship distributed systems that actually run in production  
+- Design and ship distributed systems that actually run in production   
 - Build autonomous agents that can reason, act, and recover from failure  
 - Work on on-chain programs with strong focus on performance and security  
 - Connect AI systems with real financial logic (not just demos)  

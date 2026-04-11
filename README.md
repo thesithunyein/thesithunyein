@@ -1,6 +1,6 @@
 # Sithu Nyein 
 
-Web3 infrastructure and AI engineer.
+Web3 infrastructure and AI engineer. 
 
 I build systems where off-chain intelligence meets on-chain execution — mostly around distributed compute, autonomous agents, and DeFi infrastructure.
 

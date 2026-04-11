@@ -8,7 +8,7 @@ Execution is the only thing that matters.
 
 ---
 
-## What I do
+## What I do 
 
 - Design and ship distributed systems that actually run in production  
 - Build autonomous agents that can reason, act, and recover from failure  

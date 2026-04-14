@@ -1,64 +1,34 @@
-# Sithu Nyein 
+# Sithu Nyein
 
-Web3 infrastructure and AI engineer. 
-
-I build systems where off-chain intelligence meets on-chain execution — mostly around distributed compute, autonomous agents, and DeFi infrastructure.
-
-Execution is the only thing that matters. 
+Web3 and AI systems.
 
 ---
 
-## What I do 
-
-- Design and ship distributed systems that actually run in production   
-- Build autonomous agents that can reason, act, and recover from failure  
-- Work on on-chain programs with strong focus on performance and security  
-- Connect AI systems with real financial logic (not just demos)  
-- Optimize for reliability across messy, real-world environments  
+I build practical infrastructure across smart contracts, backend systems, and automation. The focus is execution, reliability, and shipping under real constraints.
 
 ---
 
-## How I build
+## Current
 
-I care about systems that:
-- don’t break under load  
-- can recover when they do  
-- are simple at the core, even if the surface looks complex  
+![Superteam](https://img.shields.io/badge/Superteam-Earn-000000?style=flat)
 
-Most of my work sits between:
-- Rust systems programming  
-- Solana / on-chain execution  
-- Python-based AI orchestration  
-- distributed infrastructure  
+Working through Superteam Earn hackathons, building and shipping products under time and incentive pressure.
 
 ---
 
-## Stack (changes over time)
+## Stack
 
-Rust, Solana, Anchor  
-Python  
-TypeScript  
-
-Docker, distributed compute  
-PostgreSQL  
-
----
-
-## Current direction
-
-- distributed AI inference  
-- MEV / execution efficiency  
-- autonomous financial systems  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=flat&logo=ethereum)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
 
 ---
 
-## Links
-
-https://sithunyein.com  
-https://superteam.fun/earn/t/sithunyein  
-sithunyein.mailto@gmail.com  
-https://x.com/hello_sithu  
+Systems should be simple.  
+They should also hold under pressure.
 
 ---
 
-© Sithu Nyein
+https://sithunyein.com

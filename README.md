@@ -1,34 +1,27 @@
 # Sithu Nyein
 
-Web3 and AI systems.
+I build blockchain infrastructure and AI applications using Python and Rust.
 
 ---
 
-I build practical infrastructure across smart contracts, backend systems, and automation. The focus is execution, reliability, and shipping under real constraints.
+Right now, I spend most of my time hunting Superteam bounties and building a startup in stealth mode. I focus on shipping fast, learning from real constraints, and turning ideas into working systems.
 
 ---
 
-## Current
-
-![Superteam](https://img.shields.io/badge/Superteam-Earn-000000?style=flat)
-
-Working through Superteam Earn hackathons, building and shipping products under time and incentive pressure.
+I started with an English degree from Pathein University, then moved into tech. Now I am studying Computer Science at the University of the People, with the long-term goal of pursuing a fully funded PhD in Computer Science.
 
 ---
 
 ## Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=flat&logo=ethereum)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana)
 
 ---
 
-Systems should be simple.  
-They should also hold under pressure.
+I am interested in the Solana ecosystem, high-performance systems, and building things that are both useful and scalable.
 
 ---
 
-https://sithunyein.com
+[About me](https://sithunyein.com)

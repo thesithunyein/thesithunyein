@@ -13,7 +13,7 @@ I built a stablecoin looping vault that aims for ~25% APY on USDC while staying 
 
 - Created an off-chain TypeScript AI Keeper that watches emission volatility and decides when to rebalance between Kamino and Marginfi.
 - Wrote the on-chain part in Rust using Anchor — with proper PDA setup, CPI calls, and Cobo MPC for secure signing.
-- Deployed it on mainnet with real transactions. The vault keeps a hard health factor floor of 1.40 and max 2% drawdown.
+- Deployed it on devnet with real transactions. The vault keeps a hard health factor floor of 1.40 and max 2% drawdown.
 - Followed all hackathon rules strictly (3-month lock, only pegged stables, no LPs, no risky loops).
 
 → [Demo Video](https://youtu.be/2csNbRHMq2g) | [Strategy Doc](./STRATEGY.md) | [Program ID & Solscan](https://solscan.io/account/A7GsghKZCyWmYh8Fi5FfH98vUUVGDdLtQGZfBSmhMTjh) | [Repository](https://github.com/thesithunyein/equxi-vault)

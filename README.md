@@ -32,7 +32,7 @@ TypeScript · Solana · Yangon, Myanmar
 
 ## About
 
-I build software people can run for real: on-chain credit flows, confidential on-chain games, agent accountability rails, and callable AI services. I ship in public on Superteam, DoraHacks, and HackQuest.
+I build software people can run for real: on-chain credit flows, confidential on-chain games, and agent accountability rails. Currently anchoring the DevConnect developer ecosystem, managing the platform's core hubs for student developers and Web3 builders.
 
 Honorable mentions: **Inco × Megapot Summer Game Jam** (pi River, Aug 2026) · **Zerion** (Consensus, May 2026).
 
@@ -49,7 +49,6 @@ Open to remote and full-time engineering roles.
 | **[Spark](https://github.com/thesithunyein/spark)** | Attestcoin-verified credit on Creditcoin — pay once, unlock credit | [Product](https://spark.sithunyein.com) · [Repo](https://github.com/thesithunyein/spark) |
 | **[pi River](https://github.com/thesithunyein/pi-river)** | Confidential Hold'em with Inco-encrypted hole cards · **Inco × Megapot Game Jam honorable mention** | [Play](https://pi.sithunyein.com) · [Repo](https://github.com/thesithunyein/pi-river) · [Winners](https://www.inco.org/blog/summer-game-jam-winners) |
 | **[Equxi](https://github.com/thesithunyein/equxi)** | Solana trust layer for AI agents — bond, enforce, slash, compensate | [Product](https://equxi.sithunyein.com) · [Repo](https://github.com/thesithunyein/equxi) |
-| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · brand-kit service · x402 | [Agent #5421](https://www.okx.ai/agents/5421) · [Repo](https://github.com/thesithunyein/pixelbrief) |
 
 [![vectra](https://img.shields.io/badge/vectra-plant%20ops%20·%20Solana%20attestations-14F195?style=flat-square)](https://github.com/thesithunyein/vectra)
 [![arb-guardian](https://img.shields.io/badge/arb--guardian-treasury%20protection-0052FF?style=flat-square)](https://github.com/thesithunyein/arb-guardian)

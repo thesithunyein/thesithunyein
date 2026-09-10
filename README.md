@@ -23,6 +23,7 @@ TypeScript · Solana · Yangon, Myanmar
 [![HackQuest](https://img.shields.io/badge/HackQuest-Builder-0d0d10?style=flat-square)](https://www.hackquest.io/)
 [![Inco](https://img.shields.io/badge/Inco%20%C3%97%20Megapot%20Game%20Jam-Honorable%20Mention-3673f5?style=flat-square)](https://www.inco.org/blog/summer-game-jam-winners)
 [![Zerion](https://img.shields.io/badge/Zerion-Honorable%20Mention-2962EF?style=flat-square)](https://x.com/zerion/status/2060377271337463835)
+[![DevConnect](https://devconnectplatform.com/api/badge/sithunyein)](https://devconnectplatform.com/u/sithunyein?ref=badge)
 [![English](https://img.shields.io/badge/English-C2%20Proficient-1B4F72?style=flat-square)](https://cert.efset.org/F94d2X)
 
 </div>

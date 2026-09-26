@@ -1,30 +1,18 @@
-<!--
-  Place this file at: github.com/thesithunyein/thesithunyein → README.md
-  Synced with https://sithunyein.com
--->
-
 <div align="center">
 
 # Sithu Nyein
 
-**Web3 & AI Engineer**
+**Web3 and AI engineer in Yangon**
 
-TypeScript · Solana · Yangon, Myanmar
+I build on-chain credit, playable crypto games, and callable AI services.
 
-<br />
+[![Website](https://img.shields.io/badge/Website-sithunyein.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sithunyein.com)
+[![GitHub](https://img.shields.io/badge/GitHub-thesithunyein-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thesithunyein)
+[![Email](https://img.shields.io/badge/Email-contact-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sithunyein.mailto@gmail.com)
 
-[![Website](https://img.shields.io/badge/Website-sithunyein.com-0d0d10?style=for-the-badge&logo=vercel&logoColor=14F195)](https://sithunyein.com)
-[![GitHub](https://img.shields.io/badge/GitHub-thesithunyein-0d0d10?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thesithunyein)
-[![X](https://img.shields.io/badge/X-thesithunyein-0d0d10?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thesithunyein)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sithunyein-0d0d10?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sithunyein)
-
-[![Superteam](https://img.shields.io/badge/Superteam-Active-14F195?style=flat-square&logo=solana&logoColor=black)](https://superteam.fun/earn/t/sithunyein)
-[![DoraHacks](https://img.shields.io/badge/DoraHacks-Builder-6C5CE7?style=flat-square)](https://dorahacks.io/hacker/sithunyein)
-[![HackQuest](https://img.shields.io/badge/HackQuest-Builder-0d0d10?style=flat-square)](https://www.hackquest.io/)
-[![Inco](https://img.shields.io/badge/Inco%20%C3%97%20Megapot%20Game%20Jam-Honorable%20Mention-3673f5?style=flat-square)](https://www.inco.org/blog/summer-game-jam-winners)
-[![Zerion](https://img.shields.io/badge/Zerion-Honorable%20Mention-2962EF?style=flat-square)](https://x.com/zerion/status/2060377271337463835)
-[![DevConnect](https://devconnectplatform.com/api/badge/sithunyein)](https://devconnectplatform.com/u/sithunyein?ref=badge)
-[![English](https://img.shields.io/badge/English-C2%20Proficient-1B4F72?style=flat-square)](https://cert.efset.org/F94d2X)
+[![Superteam](https://img.shields.io/badge/Superteam-Profile-14F195?style=flat-square&logo=solana&logoColor=111827)](https://superteam.fun/earn/t/sithunyein)
+[![DoraHacks](https://img.shields.io/badge/DoraHacks-Profile-6C5CE7?style=flat-square)](https://dorahacks.io/hacker/sithunyein)
+[![Boundless](https://img.shields.io/badge/Boundless-Profile-111827?style=flat-square)](https://www.boundlessfi.xyz/profile/sithunyein)
 
 </div>
 
@@ -32,62 +20,35 @@ TypeScript · Solana · Yangon, Myanmar
 
 ## About
 
-I build software people can run for real: on-chain credit flows, confidential on-chain games, and agent accountability rails. Currently anchoring the DevConnect developer ecosystem, managing the platform's core hubs for student developers and Web3 builders.
+I am based in Yangon and build software that settles: a credit flow someone can use without paperwork, a game that pays out a real ticket, or an agent another agent can call.
 
-Honorable mentions: **Inco × Megapot Summer Game Jam** (pi River, Aug 2026) · **Zerion** (Consensus, May 2026).
+I am studying Computer Science at the [University of the People](https://www.uopeople.edu/). Most of what I make is public, with the work and writing collected at [sithunyein.com](https://sithunyein.com).
 
-Open to remote and full-time engineering roles.
+## Selected work
 
-**Portfolio:** [sithunyein.com](https://sithunyein.com) · **Email:** [sithunyein.mailto@gmail.com](mailto:sithunyein.mailto@gmail.com)
-
----
-
-## Selected Work
-
-| Project | Focus | Links |
-|:---|:---|:---|
-| **[Spark](https://github.com/thesithunyein/spark)** | Attestcoin-verified credit on Creditcoin — pay once, unlock credit | [Product](https://spark.sithunyein.com) · [Repo](https://github.com/thesithunyein/spark) |
-| **[pi River](https://github.com/thesithunyein/pi-river)** | Confidential Hold'em with Inco-encrypted hole cards · **Inco × Megapot Game Jam honorable mention** | [Play](https://pi.sithunyein.com) · [Repo](https://github.com/thesithunyein/pi-river) · [Winners](https://www.inco.org/blog/summer-game-jam-winners) |
-| **[Equxi](https://github.com/thesithunyein/equxi)** | Solana trust layer for AI agents — bond, enforce, slash, compensate | [Product](https://equxi.sithunyein.com) · [Repo](https://github.com/thesithunyein/equxi) |
-
-[![vectra](https://img.shields.io/badge/vectra-plant%20ops%20·%20Solana%20attestations-14F195?style=flat-square)](https://github.com/thesithunyein/vectra)
-[![arb-guardian](https://img.shields.io/badge/arb--guardian-treasury%20protection-0052FF?style=flat-square)](https://github.com/thesithunyein/arb-guardian)
-[![cipher-sign](https://img.shields.io/badge/cipher--sign-policy%20TEE%20vault-6C5CE7?style=flat-square)](https://github.com/thesithunyein/cipher-sign)
-[![shiftledger](https://img.shields.io/badge/shiftledger-factory%20payroll-14F195?style=flat-square)](https://github.com/thesithunyein/shiftledger)
-[![consensus](https://img.shields.io/badge/consensus-Zerion%20mention-2962EF?style=flat-square)](https://github.com/thesithunyein/consensus)
-
----
-
-## Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![x402](https://img.shields.io/badge/x402-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![Foundry](https://img.shields.io/badge/Foundry-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![Inco Lightning](https://img.shields.io/badge/Inco%20Lightning-FHE-3673f5?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-
----
-
-## Education
-
-| Degree | Institution |
-|:---|:---|
-| **B.S. Computer Science** | [University of the People](https://www.uopeople.edu/) · ongoing |
-| **B.A. English** | [Pathein University](https://www.pathein-u.edu.mm/) |
-
----
+| Project | What it is |
+| :--- | :--- |
+| **[Owed](https://sithunyein.com/work/owed)** | An auditable feed for Token-2022 corporate actions and the runtime values Solana actually applies. |
+| **[Susunaku](https://sithunyein.com/work/susunaku)** | A rotating savings circle where members send USDC directly to the person whose turn it is on Stellar. |
+| **[Equxi](https://sithunyein.com/work/equxi)** | A Solana trust layer for AI agents, with bonds, slash history, and consequences for broken rules. |
+| **[Spark](https://sithunyein.com/work/spark)** | Payment-verified credit: Attestcoin confirms a payment, then Creditcoin opens the credit flow. |
+| **[pi River](https://sithunyein.com/work/pi-river)** | Heads-up Hold'em with hole cards encrypted by Inco Lightning and a playable wallet experience. |
 
 ## Writing
 
 - [Why Failed Solana Transactions Need a Diagnosis Layer](https://sithunyein.com/blog/solana-tx-diagnosis)
 - [Why I'm Betting on Solana from Myanmar](https://sithunyein.com/blog/web3-from-myanmar)
 - [Code as Leverage](https://sithunyein.com/blog/code-as-leverage)
+- [English to Code](https://sithunyein.com/blog/english-to-code)
+- [Prompts as Programs](https://sithunyein.com/blog/prompts-as-programs)
+
+## Tools I reach for
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-111827?style=flat-square&logo=stellar&logoColor=white)
 
 ---
 
